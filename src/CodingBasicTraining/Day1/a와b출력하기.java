@@ -2,11 +2,13 @@ package CodingBasicTraining.Day1;
 
 import java.util.Scanner;
 
-// 문자열 반복해서 출력하기
-public class day1_3 {
+// a와 b 출력하기
+public class a와b출력하기 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String str = sc.next();
-        int n = sc.nextInt();
+        int a = sc.nextInt();
+        int b = sc.nextInt();
+
+        System.out.println(a + b);
     }
 }

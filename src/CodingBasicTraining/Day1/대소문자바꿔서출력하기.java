@@ -3,7 +3,7 @@ package CodingBasicTraining.Day1;
 import java.util.Scanner;
 
 // 대소문자 바꿔서 출력하기
-public class day1_4 {
+public class 대소문자바꿔서출력하기 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String a = sc.next();
